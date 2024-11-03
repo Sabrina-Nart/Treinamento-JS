@@ -1,4 +1,4 @@
-//Funções ão blocos - dividir ideias - Reaproveitar blocos
+//Funções são blocos - dividir ideias - Reaproveitar blocos
 
 function soma(valor1, valor2){
 

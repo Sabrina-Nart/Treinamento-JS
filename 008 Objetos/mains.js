@@ -1,6 +1,6 @@
 const pessoa = {
     nome: "Sabrina",
-    idade: 27,
+    idade: 21,
     profissao: "Desenvolvedora"
 }
 
